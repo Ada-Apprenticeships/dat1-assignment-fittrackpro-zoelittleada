@@ -1,0 +1,14 @@
+{
+    "name": "fittrackpro",
+    "version": "1.0.0",
+    "description": "Fittrack Pro Database Assignment",
+    "main": "scripts/import.js",
+    "scripts": {
+      "import": "node scripts/import.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "sqlite3": "^5.0.2"
+    }
+  }
